@@ -1,0 +1,7 @@
+gitの練習をしていきます
+
+テスト記載
+
+git add
+
+git commit
