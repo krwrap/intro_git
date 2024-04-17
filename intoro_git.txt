@@ -8,3 +8,5 @@ git commit
 
 
 git rm
+
+git stauts
